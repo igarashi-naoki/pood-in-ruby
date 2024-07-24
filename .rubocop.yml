@@ -1,0 +1,11 @@
+Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/ParallelAssignment:
+  Enabled: false
+
+Style/StringConcatenation:
+  Enabled: false
